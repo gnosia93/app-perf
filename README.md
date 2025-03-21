@@ -7,3 +7,4 @@
 
 # graviton ml
 * file:///Users/soonbeom/Downloads/roberta-on-aws-ec2-m7i-vs-m7g.pdf
+* https://www.youtube.com/watch?v=BeKXqlLrHLY
